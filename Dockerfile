@@ -1,4 +1,4 @@
-FROM docker:19.03
+FROM docker:29
 
 RUN apk add bash
 
